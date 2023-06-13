@@ -10,7 +10,7 @@ IDependencieController
 IDependencieProvider
   -GetDependencie()
 
-Add scene subcontiners **??**
+Add scene subcontainers **??**
 
 **CI:**
 BuildMachine(CI yaml or smth)
