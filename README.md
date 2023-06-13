@@ -1,6 +1,6 @@
 **Template:**
 Add to manifest:
-"com.newtonsoft.json": "https://github.com/PixelWizards/com.newtonsoft.json.git",
+"com.unity.nuget.newtonsoft-json": "3.0.1",
 
 **Ji2Core:**
 Split Container to => 
