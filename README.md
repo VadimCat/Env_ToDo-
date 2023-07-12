@@ -8,5 +8,9 @@ DepsProvide => Think about creation and providing Inetefaces provding. Look for 
   **Write .Net Mediators analogue**
 Remove legacy input class
 
+**Test**
+Install coverage checker from unity packages
+Cover modules
+
 **CI:**
 BuildMachine(CI yaml or smth)
