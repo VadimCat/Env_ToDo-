@@ -6,8 +6,8 @@
   -**Container**
 DepsProvide => Think about creation and providing Inetefaces provding. Look for zenject non-reflextion analogues.
   **Write .Net Mediators analogue**
-Remove legacy input class
-
+  **Remove legacy input class**
+  **Sort core classes by mvc**
 **Test**
 Install coverage checker from unity packages
 Cover modules
